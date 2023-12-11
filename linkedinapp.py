@@ -50,7 +50,7 @@ y_pred = log_Res.predict(x_test)
 
 st.title("Accenture Labs' LinkedIn Usage Simulation")
 st.write("At Accenture, our analytics team is closely analyzing social media behavior in the U.S.")
-st.write("LinkedIn has become the **primier social media platform** for job seekers in an oversalutated job market.")
+st.write("LinkedIn has become the **primier social media platform** for job seekers in an oversaturated job market.")
 st.write("With your responses below, we can **accurately predict** if you're a LinkedIn user or not. ")
 st.write("Don't believe us? Let us show you how!")
 
